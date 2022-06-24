@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TBC_HomeWork_3</string>
+    <string name="profile_info">Profile Info</string>
+    <string name="enter_your_first_name">Enter Your First Name</string>
+    <string name="enter_your_age">Enter Your Age</string>
+    <string name="save">Save</string>
+    <string name="clear">Clear</string>
+    <string name="enter_your_last_name">Enter Your Last Name</string>
+    <string name="enter_your_email">Enter Your email</string>
+    <string name="enter_username">Enter Username</string>
+</resources>
